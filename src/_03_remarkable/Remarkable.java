@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	String aboutKhang ="You are very tall.";
 	String aboutAnthony= "You are good at basketball.";
 	String aboutNhan= " Big Brain.";
-	if(username.equalsIgnoreCase("Khang you are very tall"));{
+	if(username.equalsIgnoreCase("Khang")("You are very tall.")) {
 	if(aboutAnthony.equals("You are good at basketball.")) {
 		if(aboutNhan.equals(" You are big brain.")) {
 			
@@ -29,6 +29,5 @@ public static void main(String[] args) {
 	}
 }
 }
-
 }
 }
